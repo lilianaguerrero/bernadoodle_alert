@@ -57,10 +57,12 @@ def checking_merch():
             sold_out_counts.append(sold_out_count)
             item_counts.append(item_count)
             updated = True
+            print(sold_out_counts, item_counts) 
             print('updated = True')
 
         if updated == True:
-            for phone in phones: 
+            for phone in phones:
+                print(sold_out_counts, item_counts) 
                 print("sending texts!")
                 merch_alert(phone) #send text messege notification
             break
