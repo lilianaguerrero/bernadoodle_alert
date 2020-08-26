@@ -1,11 +1,11 @@
-# Bernedoodle Alert 
+# New Merch Alert 
 
 ## Summary 
 
-**Bernedoodle Alert** is a python service that sends a text message to a desired phone number with information on an available puppy litter. 
+**New Merch Alert** is a python service that sends a text message to a desired phone number that notifies that new merchandise has been uploaded to Peloton's site. 
 
 ## About the Developer
-Created by Alejandra Lopez. Learn more about the developer on [Linked In](https://www.linkedin.com/in/alejandra-lopez-0a0a205b/).
+Modified from the Bernadoodle Alert Created by Alejandra Lopez. Learn more about the developer on [Linked In](https://www.linkedin.com/in/alejandra-lopez-0a0a205b/).
 
 ### Tech Stack:
 
