@@ -12,7 +12,7 @@ import logging
 def merch_alert(phone):
     """Send text when merch is availble using Twilio API."""
     account_sid = 'AC1eba558e1072b9932b78415b79239629'
-    auth_token = '060ce041d6c01e653506855f121f0f17'
+    auth_token = '311596ce9da5698ec11c7e0715681ab9'
 
     TWILIO_NUMBER = '+16466792435'
 
